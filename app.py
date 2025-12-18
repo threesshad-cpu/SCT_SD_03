@@ -65,7 +65,7 @@ HTML_TEMPLATE = """
 <body data-theme="light">
 <div class="layout">
     <aside>
-        <div class="card"><h2 style="color:var(--accent); margin:0;">Sudoku.luv</h2></div>
+        <div class="card"><h2 style="color:var(--accent); margin:0;">Sudoku-Grid</h2></div>
         <div class="card">
             <h3>Missions</h3>
             {% for name in ["Lvl 1 Noob (4x4)", "Lvl 2 Beginner (4x4)", "Lvl 3 Casual (9x9)", "Lvl 4 Smart (9x9)", "Lvl 5 Pro (9x9)"] %}
