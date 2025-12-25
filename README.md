@@ -1,8 +1,11 @@
 # 🧩 Sudoku Titan Omega v11.3 🤖
 ### **Advanced AI Research Solver & Procedural Logic Engine**
-**Intern:** Threessha D | **Intern ID:** SCT/DEC25/0792  
-**Project:** Task 3 - Software Development Internship at **SkillCraft Technology**
+# 🌦️ TASK 3
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sct-sd-3-threessha.vercel.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![SCT Internship](https://img.shields.io/badge/SCT-Internship_Project-orange)](https://www.skillcrafttechnology.com/)
 ---
 
 ## 🚀 Project Overview
@@ -62,7 +65,8 @@ Access: Open http://127.0.0.1:5000 in your browser.
 ---
 ## Deployment Link: https://sct-sd-03.vercel.app/ 
 
-## 👨‍💻 Internship Documentation
-* **Module:** Task 3 - Sudoku Solver
-* **Focus Area:** AI Heuristics, UI/UX Design, and Full-Stack Integration
-* **Submission Date:** December 2025  
+## 🤝 Credits
+* **Developer:** Threessha D
+* **Role:** Software Development Intern
+* **Organization:** SkillCraft Technology
+* **Project ID:** SCT_SD_3
