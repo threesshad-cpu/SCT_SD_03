@@ -46,17 +46,21 @@
 
 ## 📖 How to Run
 1. Clone the Repository:
+```bash
    git clone [https://github.com/threesshad-cpu/SCT_SD_3.git](https://github.com/threesshad-cpu/SCT_SD_3.git)
-   
+```
 2. Install Dependencies:
+ ```bash
    pip install flask
-
+```
 3. Launch the Omega Engine:
+```bash
    python app.py
-   
+```
 Access: Open http://127.0.0.1:5000 in your browser.
 
 ---
+## Deployment Link: https://sct-sd-03.vercel.app/ 
 
 ## 👨‍💻 Internship Documentation
 * **Module:** Task 3 - Sudoku Solver
